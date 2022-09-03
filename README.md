@@ -21,9 +21,9 @@ Also familiar with
 - MySQL
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKRANT17565&theme=merko&show_icons=true)](https://github.com/VIKRANT17565)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZENITSU17565&theme=merko&show_icons=true)](https://github.com/ZENITSU17565)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VIKRANT17565&left_color=black&right_color=GREEN)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ZENITSU17565&left_color=black&right_color=GREEN)
 
 
 
